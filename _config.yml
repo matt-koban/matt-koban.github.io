@@ -116,6 +116,13 @@ author:
   youtube          :
   wikipedia        :
 
+#include publication categories
+publication_category:
+  preprints:
+    title: 'Preprints'
+  publications:
+    title: 'Publications'  
+
 
 # Reading Files
 include:
@@ -173,7 +180,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# Collections control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -245,12 +252,7 @@ defaults:
       author_profile: true
       share: true
 
-#include publication categories
-publication_category:
-  preprints:
-    title: 'Preprints'
-  publications:
-    title: 'Publications'  
+
 
 # Sass/SCSS
 sass:
