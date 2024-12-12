@@ -245,6 +245,13 @@ defaults:
       author_profile: true
       share: true
 
+#include publication categories
+publication_category:
+  preprints:
+    title: 'Preprints'
+  publications:
+    title: 'Publications'  
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
