@@ -11,19 +11,12 @@ redirect_from:
 
 My full CV can be found [here](https://matt-koban.github.io/files/CV-5.pdf)
 
-Education
-======
-* B.Sc. in Mathematics, University of Saskatchewan, 2020
-* M.Sc. in Mathematics, University of Toronto, 2021
-* Ph.D in Mathematics, University of Toronto, In progress
+## Education
 
+  * B.Sc. in Mathematics, University of Saskatchewan, 2020
+  * M.Sc. in Mathematics, University of Toronto, 2021
+  * Ph.D in Mathematics, University of Toronto, In progress
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
   
 
